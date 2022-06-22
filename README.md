@@ -1,4 +1,4 @@
-First
+
 Ethereum Daap
 used Solidity,Truffle,React js,JavaScript,React Bootstrap,Html5m,css,IPFS
 and some Truffle tests.
