@@ -1,6 +1,19 @@
 First
+Ethereum Daap
+used Solidity,Truffle,React js,JavaScript,React Bootstrap,Html5m,css,IPFS
+and some Truffle tests.
 
+Openzzeplin ERC20,Chainlink Oracle Randow Number
 
+summary
+
+This is a project that uses chain link oracle to 100% safely bring a random number
+when all tickets are sold, he calls this "Chain Link Oracle" contract and brings that number.
+After 300 seconds, you can claim your reward.
+You get an ERC20 coin as a reward..
+When the winner asks for his reward automatically after the system resets and is ready for the next lottery
+
+..
 
 This part that connect, you need to wait 2 to 3 seconds to load,
 it needs to call the blockchain and query to bring up the information.
@@ -11,6 +24,7 @@ https://user-images.githubusercontent.com/39299613/175029491-01db5ef3-ca86-42cc-
 
 When all tickets are sold, you can see the Claim tab change and show the winning wallet.
 To claim your reward, you must wait 300 seconds, why so long?
+You get an ERC20 coin as a reward
 Each blockchain has a certain time to process Transactions
 Rinkeby network 2 to 5 minutes
 Kovan 2 minutes
