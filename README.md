@@ -9,3 +9,10 @@ When all tickets are purchased, the contract automatically calls the Chain link 
 
 https://user-images.githubusercontent.com/39299613/175029491-01db5ef3-ca86-42cc-9a64-24775f334c56.mp4
 
+here
+
+
+
+
+https://user-images.githubusercontent.com/39299613/175038455-78076a28-41d4-4c87-91d0-f2302cf9ccd9.mp4
+
