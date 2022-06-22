@@ -9,7 +9,15 @@ When all tickets are purchased, the contract automatically calls the Chain link 
 
 https://user-images.githubusercontent.com/39299613/175029491-01db5ef3-ca86-42cc-9a64-24775f334c56.mp4
 
-here
+When all tickets are sold, you can see the Claim tab change and show the winning wallet.
+To claim your reward, you must wait 300 seconds, why so long?
+Each blockchain has a certain time to process Transactions
+Rinkeby network 2 to 5 minutes
+Kovan 2 minutes
+
+Note: if you are going to test this code, first look at the response time in the Chain link documentation, each network has different times to bring a "Random Number"
+
+When you claim your reward automatically, it will reset the tickets and be ready for a new lottery…
 
 
 
