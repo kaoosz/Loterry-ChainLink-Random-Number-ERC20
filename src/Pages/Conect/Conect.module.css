@@ -1,0 +1,14 @@
+
+
+.mainImg{
+    background-image: url("../../Image/cover.jpg");
+    background-size: cover;
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
+}
+
+/*
+background-image: url("../../Image/background.jpg");
+
+*/

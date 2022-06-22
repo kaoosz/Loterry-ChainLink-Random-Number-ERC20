@@ -1,0 +1,35 @@
+.App2 {
+    text-align: center;
+}
+  
+
+  
+.App-header2 {
+    background-color: #282c34;
+    min-height: 100vh;
+    display: center;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    font-size: calc(10px + 2vmin);
+    color: white;
+    margin-left: 0;
+}
+  
+.App-link2 {
+    color: #61dafb;
+}
+  
+  
+
+.Img{
+    background-image: url("../../Image/4517235.jpg");
+    background-size: cover;
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
+}
+
+.container2{
+    display: center;
+}

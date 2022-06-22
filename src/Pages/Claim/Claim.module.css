@@ -1,0 +1,8 @@
+
+.Img{
+    background-image: url("../../Image/moedas.gif");
+    background-size: cover;
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
+}
